@@ -8,7 +8,9 @@ namespace LearnString
         {
             Console.WriteLine("Hello World!");
 
-            Console.WriteLine("ssss");
+            Console.WriteLine("Second commit!");
+            
+            
         }
     }
 }
